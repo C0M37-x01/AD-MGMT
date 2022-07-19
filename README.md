@@ -39,7 +39,25 @@
 - If you do not check this check box your VM could not be start with windows 11
 <img width="600" alt="Screenshot 2022-07-19 at 4 35 59 PM" src="https://user-images.githubusercontent.com/74067699/179744049-14a30840-0529-4306-8c32-1945be70fe6f.png">
 
-<img width="500" alt="Screenshot 2022-07-19 at 4 36 11 PM" src="https://user-images.githubusercontent.com/74067699/179744077-0feeea6c-a4a6-473e-bbf9-b452fe210fae.png">
+<img width="600" alt="Screenshot 2022-07-19 at 4 36 11 PM" src="https://user-images.githubusercontent.com/74067699/179744077-0feeea6c-a4a6-473e-bbf9-b452fe210fae.png">
+
+### 12. Now you'll see this window click on play button
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/74067699/179757435-25cd5bf5-1eaa-4ff7-bab8-13e93269b0cb.png">
+
+### 13. After this you will see windows started booting
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/74067699/179758211-9b5284ae-f3c2-4470-a616-f8239f5204be.png">
+
+### 14. You'll see this windows which is very common when you install windows OS into system
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/74067699/179758527-2737c0b8-5a10-4bac-b0de-0dba60d1475c.png">
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/74067699/179758560-533b67eb-e7bc-4584-9801-f36fbb8c92a8.png">
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/74067699/179758600-17fa7f7c-7cb9-43c6-97c2-7901a5bd205b.png">
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/74067699/179758620-4d15b8b7-0158-40f5-8a43-66d3425eaf2a.png">
+
+### 15. This Error happens 
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/74067699/179758655-bf8130db-7bab-4f62-a250-3cdd5141d5b6.png">
 
 
-### Work in progress !! 
+
